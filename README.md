@@ -1,4 +1,4 @@
-# Trabalhode Desenvolvimento Mobile - 2Bimestre
+# Trabalho de Desenvolvimento Mobile - 2Bimestre
 
 ---
 **ALUNO(A):** Lorhana Roncetti  
