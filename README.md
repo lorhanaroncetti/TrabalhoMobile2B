@@ -10,5 +10,5 @@
 ---
 
 ### Sobre este trabalho
-Este trabalho é uma extensao do trabalho do 1Bismestre. 
+Este trabalho é uma extensao do trabalho do 1Bismestre.  
 O objetivo geral do programa é desenvolver uma aplicação que faz requisições a uma API externa e criar botões que redirecionam o usuário para outra página.
