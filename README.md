@@ -13,5 +13,5 @@
 ---
 
 ### Sobre este trabalho
-Este trabalho é uma extensão do trabalho do 1Bismestre.  
-O objetivo geral do programa é desenvolver uma aplicação que faz requisições a uma API externa e criar botões que redirecionam o usuário para outra página.
+Este trabalho é uma extensão do Trabalho de Desenvolvimento Mobile do 1Bismestre.  
+O objetivo geral do programa é desenvolver uma aplicação que faz requisições a uma API externa e criar botões que direcionam o usuário para outra página.
