@@ -10,4 +10,4 @@
 ---
 
 ### Sobre este trabalho
-Desenvolver uma aplicação que faz requisições a uma API externa. além de criar botões para redirecionar o usuário para outra página. 
+É uma extensao do trabalho do 1Bismestre. O objetivo deste trabalho é desenvolver uma aplicação que faz requisições a uma API externa e criar botões que redirecionam o usuário para outra página.
