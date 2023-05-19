@@ -1,4 +1,6 @@
 ![lolo](https://i.pinimg.com/550x/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg)
+<img src="https://i.pinimg.com/550x/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg"
+     width: "100px"/>
 
 # Trabalho de Desenvolvimento Mobile - 2Bimestre
 
