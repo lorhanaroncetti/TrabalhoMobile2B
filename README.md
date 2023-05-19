@@ -1,4 +1,4 @@
-![lolo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Falexandrec0950%2Ffundo-de-linkedin%2F&psig=AOvVaw3Htt1C4fmi9l59R1OEIYne&ust=1684588890475000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJia6_28gf8CFQAAAAAdAAAAABAI.png)
+![lolo](https://i.pinimg.com/550x/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg)
 
 # Trabalho de Desenvolvimento Mobile - 2Bimestre
 
